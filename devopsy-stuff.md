@@ -10,7 +10,7 @@ Host a static website in S3, For a simple web app consider making it a page that
 
 Create a full secure cloud environment for this project (web site mentioned above) using terraform and GitOps and runs security scans of the application and infrastructure code in the ci/cd pipeline
 
-Create a simple web application you could build and deploy into a cloud environment like AWS or GCP. Build your cloud infrastructure with Terraform for this application. Deploy that infrastructure and the application itself using GitOps. For exampleBut also make sure you are doing security testing inside that Ci/CD process, here is an example of that https://medium.com/javarevisited/sast-and-github-securing-your-organization-from-exposed-credentials-a80d2103d56b. That way you demonstrate building and deploying an application with automated security testing
+Create a simple web application you could build and deploy into a cloud environment like AWS or GCP. Build your cloud infrastructure with Terraform for this application. Deploy that infrastructure and the application itself using GitOps. For exampleBut also make sure you are doing security testing inside that Ci/CD process, [here is an example of that](https://medium.com/javarevisited/sast-and-github-securing-your-organization-from-exposed-credentials-a80d2103d56b). That way you demonstrate building and deploying an application with automated security testing
 
 DEPLOYMENTS
 
