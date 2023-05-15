@@ -1,2 +1,2 @@
-# Labs-aand-resources
+# Labs-and-Resources
 labs and resources
