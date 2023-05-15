@@ -1,12 +1,27 @@
 ## PATH:
 
-U of P courses:
+But first...
+People talk about soft skills all the time and important as they are - what are five HARD skills which every sysadmin must know/master?
+
+Keeping it more generic as some sysadmins have the joy of not running Windows:
+
+1. Networking
+
+2. Monitoring systems
+
+3. Automation
+
+4. Identity and Access management.
+
+5. Coffee brewing.
+
+### U of P courses:
 
 [C175, Systems Admin & Security](https://cyberlab.pacific.edu/courses/comp175)
 
 [C177, Computer Networking](https://cyberlab.pacific.edu/courses/comp177)
 
-CLOUD STUFF
+### CLOUD STUFF
 
 [Cloud resume challenge: AWS](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
 
@@ -16,7 +31,7 @@ CLOUD STUFF
 
 [Adrian Cantrill, lots of projects here]([https://yewtu.be/channel/UCEdvq5WbYGHmHKBK5Tej98w/playlists0](https://yewtu.be/channel/UCEdvq5WbYGHmHKBK5Tej98w/playlists)
 
-DEVOPS STUFF
+### DEVOPS STUFF
 
 [Do container things in the cloud](https://trello.com/c/url2CzLY)
 
