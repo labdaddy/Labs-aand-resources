@@ -2,23 +2,23 @@
 
 [Awesome free docker course online](https://courses.devopsdirective.com/docker-beginner-to-pro)
 
-[DevOps with docker](
+[DevOps with docker](https://courses.devopsdirective.com/docker-beginner-to-pro)
 
-[Docker & Kubernetes course, udemy](
+[Docker & Kubernetes course, udemy](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
 
 ### KUBERNETES
 
-[Training, Udemy: Deploy microservices to AWS w/ kubernetes, Udemy](
+[Training, Udemy: Deploy microservices to AWS w/ kubernetes, Udemy](https://www.udemy.com/course/kubernetes-microservices/)
 
-[Kubernetes roadmap, roadmaps.sh](
+[Kubernetes roadmap, roadmaps.sh](https://roadmap.sh/kubernetes)
 
-[Repo for IaC: Maddevsio aws-eks-base w/ Terraform](
+[Repo for IaC: Maddevsio aws-eks-base w/ Terraform](https://github.com/maddevsio/aws-eks-base)
 
-[Khuedoan Kubernetes lab](
+[Khuedoan Kubernetes lab](https://github.com/khuedoan/homelab)
 
-[reddit kubernetes suggestion](
+reddit kubernetes suggestion
 
-[Setup a Kubeadm based cluster to an enterprise level. What I mean by this
+Setup a Kubeadm based cluster to an enterprise level. What I mean by this is do the following:
 
 Appropriate RBAC + Identity integration
 
