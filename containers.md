@@ -1,24 +1,24 @@
-DOCKER
+### DOCKER
 
-Awesome free docker course online
+[Awesome free docker course online](https://courses.devopsdirective.com/docker-beginner-to-pro)
 
-DevOps with docker
+[DevOps with docker](
 
-Docker & Kubernetes course, udemy
+[Docker & Kubernetes course, udemy](
 
-KUBERNETES
+### KUBERNETES
 
-Training, Udemy: Deploy microservices to AWS w/ kubernetes, Udemy
+[Training, Udemy: Deploy microservices to AWS w/ kubernetes, Udemy](
 
-Kubernetes roadmap, roadmaps.sh
+[Kubernetes roadmap, roadmaps.sh](
 
-Repo for IaC: Maddevsio aws-eks-base w/ Terraform
+[Repo for IaC: Maddevsio aws-eks-base w/ Terraform](
 
-Khuedoan Kubernetes lab
+[Khuedoan Kubernetes lab](
 
-reddit kubernetes suggestion :
+[reddit kubernetes suggestion](
 
-Setup a Kubeadm based cluster to an enterprise level. What I mean by this:
+[Setup a Kubeadm based cluster to an enterprise level. What I mean by this
 
 Appropriate RBAC + Identity integration
 
