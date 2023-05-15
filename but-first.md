@@ -4,8 +4,6 @@ But first...
 
 People talk about soft skills all the time and important as they are - what are five HARD skills which every sysadmin must know/master?
 
-Keeping it more generic as some sysadmins have the joy of not running Windows:
-
 1. Networking
 
 2. Monitoring systems
