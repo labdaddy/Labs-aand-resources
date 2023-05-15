@@ -1,1 +1,1 @@
-## LOTS OF RESOURCES, see indivivual pages for more detail
+## LOTS OF RESOURCES, see individual pages for more detail
