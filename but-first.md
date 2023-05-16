@@ -28,7 +28,7 @@ People talk about soft skills all the time and important as they are - what are 
 
 [Cloud resume GITHUB results](https://github.com/search?q=cloud+resume+challenge)
 
-[Adrian Cantrill, lots of projects here]([https://yewtu.be/channel/UCEdvq5WbYGHmHKBK5Tej98w/playlists0](https://yewtu.be/channel/UCEdvq5WbYGHmHKBK5Tej98w/playlists)
+[Adrian Cantrill, lots of projects here](https://yewtu.be/channel/UCEdvq5WbYGHmHKBK5Tej98w/playlists0](https://yewtu.be/channel/UCEdvq5WbYGHmHKBK5Tej98w/playlists)
 
 ### DEVOPS STUFF
 
